@@ -1,5 +1,6 @@
 # 2D-Snake-Game
- Classic Snake game developed for Android using Unity Engine.
+ Classic Snake game developed for Android using Unity Engine. <br>
+ Download the APK to view the application: <a href = "https://drive.google.com/file/d/1EnF1cfwc7DNUh-3SPOVuI--gZ-FSjNv5/view?usp=sharing">Snake-Game 2D</a>
 
 <h2>Key Features</h2>
 <li><b>Snake Movement:</b> Controls are implemented for the snake to move up, down, left, and right, with restrictions to prevent the snake from reversing into itself.</li> <br>
